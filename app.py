@@ -6,14 +6,14 @@ import pickle
 # Title
 col = ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']
 
-st.title('California Housing Price Prediction')
+st.title('california Housing Price Prediction')
 
 
 
 
 st.image('https://wallpapercave.com/wp/wp2464233.jpg')
 
-st.header('Model of housing prices to predict median house values in California ',divider=True)
+st.header('Model of housing prices to predict median house values in california ',divider=True)
 
 # st.subheader('''User Must Enter Given values to predict Price:
 # ['MedInc', 'HouseAge', 'AveRooms', 'AveBedrms', 'Population', 'AveOccup']''')
